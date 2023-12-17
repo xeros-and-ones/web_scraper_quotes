@@ -3,6 +3,10 @@
 
 
 * Introduction
-A Web Scraper using:
+A proof of concept Web Scraper i made using:
 - Selenium
 - Flask
+while learning about web scraping and how it works.
+
+It targets a dummy website http://quotes.toscrape.com
+which was made specifically for that sole purpose.
