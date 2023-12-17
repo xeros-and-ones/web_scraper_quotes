@@ -1,0 +1,8 @@
+#+AUTHOR: Mohamed Tarek
+#+EMAIL: mohamed96tarek@hotmail.com
+
+
+* Introduction
+A Web Scraper using:
+- Selenium
+- Flask
